@@ -1,1 +1,1 @@
-This file is mandatory in projects
+A project on how to set up virtual machine and vagrant.
